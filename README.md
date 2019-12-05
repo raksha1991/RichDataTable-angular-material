@@ -2,6 +2,9 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
+#DEMO
+https://stackblitz.com/edit/rich-data-table-angular
+
 ## Code scaffolding
 
 Run `ng generate component component-name --project rich-data-table-angular` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project rich-data-table-angular`.
