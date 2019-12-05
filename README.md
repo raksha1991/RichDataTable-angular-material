@@ -2,7 +2,7 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
-#DEMO
+## DEMO
 https://stackblitz.com/edit/rich-data-table-angular
 
 ## Code scaffolding
