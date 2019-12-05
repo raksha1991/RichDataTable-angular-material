@@ -1,0 +1,7 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { AwardMultiSelectSearchModule } from './multi-select-search.module';
+export { MultiSelectSearchComponent } from './multi-select-search.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9yaWNoLWRhdGEtdGFibGUtYW5ndWxhci8iLCJzb3VyY2VzIjpbImxpYi9tdWx0aS1zZWxlY3Qtc2VhcmNoL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSw2Q0FBYyw4QkFBOEIsQ0FBQztBQUM3QywyQ0FBYyxpQ0FBaUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCAqIGZyb20gJy4vbXVsdGktc2VsZWN0LXNlYXJjaC5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9tdWx0aS1zZWxlY3Qtc2VhcmNoLmNvbXBvbmVudCc7Il19

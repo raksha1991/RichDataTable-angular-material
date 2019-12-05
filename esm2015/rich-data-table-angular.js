@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { RichDataTableAngularService, RichDataTableAngularComponent, RichDataTableAngularModule } from './public-api';
+export { AwardMultiSelectSearchModule as ɵb, MultiSelectSearchComponent as ɵa } from './lib/multi-select-search';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicmljaC1kYXRhLXRhYmxlLWFuZ3VsYXIuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9yaWNoLWRhdGEtdGFibGUtYW5ndWxhci8iLCJzb3VyY2VzIjpbInJpY2gtZGF0YS10YWJsZS1hbmd1bGFyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSx1R0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLDRCQUE0QixJQUFJLEVBQUUsRUFBQywwQkFBMEIsSUFBSSxFQUFFLEVBQUMsTUFBTSwyQkFBMkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9wdWJsaWMtYXBpJztcblxuZXhwb3J0IHtBd2FyZE11bHRpU2VsZWN0U2VhcmNoTW9kdWxlIGFzIMm1YixNdWx0aVNlbGVjdFNlYXJjaENvbXBvbmVudCBhcyDJtWF9IGZyb20gJy4vbGliL211bHRpLXNlbGVjdC1zZWFyY2gnOyJdfQ==

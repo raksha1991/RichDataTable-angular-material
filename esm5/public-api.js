@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of rich-data-table-angular
+ */
+export { RichDataTableAngularService } from './lib/rich-data-table-angular.service';
+export { RichDataTableAngularComponent } from './lib/rich-data-table-angular.component';
+export { RichDataTableAngularModule } from './lib/rich-data-table-angular.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3JpY2gtZGF0YS10YWJsZS1hbmd1bGFyLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsNENBQWMsdUNBQXVDLENBQUM7QUFDdEQsOENBQWMseUNBQXlDLENBQUM7QUFDeEQsMkNBQWMsc0NBQXNDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHJpY2gtZGF0YS10YWJsZS1hbmd1bGFyXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvcmljaC1kYXRhLXRhYmxlLWFuZ3VsYXIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9yaWNoLWRhdGEtdGFibGUtYW5ndWxhci5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvcmljaC1kYXRhLXRhYmxlLWFuZ3VsYXIubW9kdWxlJztcbiJdfQ==
