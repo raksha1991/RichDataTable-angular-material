@@ -18,5 +18,10 @@ With expandable row:-
 1. BrowserModule and BrowserAnimationsModule should be included in the application module
 2. Angular material theme should be defined for the application otherwise CSS will not work properly
 
+# Usage
+npm install rich-data-table-angular-material
+
+Example: https://stackblitz.com/edit/rich-data-table-angular
+
 # Further info
 Please create an issue on the GIThub project.
